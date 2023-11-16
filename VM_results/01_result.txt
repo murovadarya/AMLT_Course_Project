@@ -1,0 +1,34 @@
+Downloading https://www.cs.toronto.edu/~kriz/cifar-10-python.tar.gz to ./data/cifar-10-python.tar.gz
+100%|██████████| 170498071/170498071 [00:02<00:00, 57551858.04it/s]
+Extracting ./data/cifar-10-python.tar.gz to ./data
+Files already downloaded and verified
+Epoch 1/ 10 - Training: 100%|██████████| 782/782 [00:50<00:00, 15.51it/s]
+Epoch 1/ 10 - Validation: 100%|██████████| 157/157 [00:03<00:00, 45.40it/s]
+Epoch 1/10, Training Loss: 1.9158, Training Accuracy: 32.09%, Validation Loss: 2.0039, Validation Accuracy: 43.50%
+Epoch 2/ 10 - Training: 100%|██████████| 782/782 [00:50<00:00, 15.41it/s]
+Epoch 2/ 10 - Validation: 100%|██████████| 157/157 [00:03<00:00, 45.33it/s]
+Epoch 2/10, Training Loss: 1.3667, Training Accuracy: 50.25%, Validation Loss: 1.3759, Validation Accuracy: 54.08%
+Epoch 3/ 10 - Training: 100%|██████████| 782/782 [00:53<00:00, 14.55it/s]
+Epoch 3/ 10 - Validation: 100%|██████████| 157/157 [00:03<00:00, 41.01it/s]
+Epoch 3/10, Training Loss: 1.1506, Training Accuracy: 59.20%, Validation Loss: 1.3395, Validation Accuracy: 56.20%
+Epoch 4/ 10 - Training: 100%|██████████| 782/782 [00:54<00:00, 14.42it/s]
+Epoch 4/ 10 - Validation: 100%|██████████| 157/157 [00:03<00:00, 45.17it/s]
+Epoch 4/10, Training Loss: 0.9368, Training Accuracy: 66.88%, Validation Loss: 1.1893, Validation Accuracy: 63.30%
+Epoch 5/ 10 - Training: 100%|██████████| 782/782 [00:50<00:00, 15.35it/s]
+Epoch 5/ 10 - Validation: 100%|██████████| 157/157 [00:03<00:00, 45.08it/s]
+Epoch 5/10, Training Loss: 0.7770, Training Accuracy: 72.87%, Validation Loss: 11.2154, Validation Accuracy: 36.42%
+Epoch 6/ 10 - Training: 100%|██████████| 782/782 [00:51<00:00, 15.31it/s]
+Epoch 6/ 10 - Validation: 100%|██████████| 157/157 [00:03<00:00, 45.15it/s]
+Epoch 6/10, Training Loss: 0.7648, Training Accuracy: 73.47%, Validation Loss: 0.7881, Validation Accuracy: 72.96%
+Epoch 7/ 10 - Training: 100%|██████████| 782/782 [00:50<00:00, 15.34it/s]
+Epoch 7/ 10 - Validation: 100%|██████████| 157/157 [00:03<00:00, 45.32it/s]
+Epoch 7/10, Training Loss: 0.6153, Training Accuracy: 78.75%, Validation Loss: 0.6763, Validation Accuracy: 77.05%
+Epoch 8/ 10 - Training: 100%|██████████| 782/782 [00:50<00:00, 15.37it/s]
+Epoch 8/ 10 - Validation: 100%|██████████| 157/157 [00:03<00:00, 45.33it/s]
+Epoch 8/10, Training Loss: 0.5383, Training Accuracy: 81.53%, Validation Loss: 0.8265, Validation Accuracy: 78.49%
+Epoch 9/ 10 - Training: 100%|██████████| 782/782 [00:51<00:00, 15.33it/s]
+Epoch 9/ 10 - Validation: 100%|██████████| 157/157 [00:03<00:00, 45.34it/s]
+Epoch 9/10, Training Loss: 0.4853, Training Accuracy: 83.17%, Validation Loss: 0.5198, Validation Accuracy: 82.46%
+Epoch 10/ 10 - Training: 100%|██████████| 782/782 [00:50<00:00, 15.37it/s]
+Epoch 10/ 10 - Validation: 100%|██████████| 157/157 [00:03<00:00, 45.12it/s]
+Epoch 10/10, Training Loss: 0.4447, Training Accuracy: 84.82%, Validation Loss: 0.5558, Validation Accuracy: 83.48% !!!

@@ -1,0 +1,62 @@
+Epoch 1/20 - Training: 100%|██████████| 782/782 [02:07<00:00,  6.15it/s]
+Epoch 1/20 - Validation: 100%|██████████| 157/157 [00:07<00:00, 21.55it/s]
+Epoch 1/20, Training Loss: 2.6223, Training Accuracy: 20.01%, Validation Loss: 2.8016, Validation Accuracy: 20.39
+Epoch 2/20 - Training: 100%|██████████| 782/782 [02:08<00:00,  6.09it/s]
+Epoch 2/20 - Validation: 100%|██████████| 157/157 [00:07<00:00, 21.59it/s]
+Epoch 2/20, Training Loss: 1.8393, Training Accuracy: 29.61%, Validation Loss: 1.7894, Validation Accuracy: 31.01
+Epoch 3/20 - Training: 100%|██████████| 782/782 [02:08<00:00,  6.09it/s]
+Epoch 3/20 - Validation: 100%|██████████| 157/157 [00:07<00:00, 21.61it/s]
+Epoch 3/20, Training Loss: 1.6404, Training Accuracy: 37.46%, Validation Loss: 1.6950, Validation Accuracy: 41.63
+Epoch 4/20 - Training: 100%|██████████| 782/782 [02:08<00:00,  6.10it/s]
+Epoch 4/20 - Validation: 100%|██████████| 157/157 [00:07<00:00, 21.55it/s]
+Epoch 4/20, Training Loss: 1.4618, Training Accuracy: 45.90%, Validation Loss: 1.5117, Validation Accuracy: 48.37
+Epoch 5/20 - Training: 100%|██████████| 782/782 [02:08<00:00,  6.10it/s]
+Epoch 5/20 - Validation: 100%|██████████| 157/157 [00:07<00:00, 21.56it/s]
+Epoch 5/20, Training Loss: 1.3636, Training Accuracy: 50.69%, Validation Loss: 1.1764, Validation Accuracy: 58.35
+Epoch 6/20 - Training: 100%|██████████| 782/782 [02:08<00:00,  6.10it/s]
+Epoch 6/20 - Validation: 100%|██████████| 157/157 [00:07<00:00, 21.62it/s]
+Epoch 6/20, Training Loss: 1.1988, Training Accuracy: 57.03%, Validation Loss: 1.1614, Validation Accuracy: 59.23
+Epoch 7/20 - Training: 100%|██████████| 782/782 [02:08<00:00,  6.10it/s]
+Epoch 7/20 - Validation: 100%|██████████| 157/157 [00:07<00:00, 21.55it/s]
+Epoch 7/20, Training Loss: 1.0976, Training Accuracy: 61.27%, Validation Loss: 1.1229, Validation Accuracy: 61.20
+Epoch 8/20 - Training: 100%|██████████| 782/782 [02:08<00:00,  6.10it/s]
+Epoch 8/20 - Validation: 100%|██████████| 157/157 [00:07<00:00, 21.61it/s]
+Epoch 8/20, Training Loss: 1.0113, Training Accuracy: 64.71%, Validation Loss: 1.0447, Validation Accuracy: 64.11
+Epoch 9/20 - Training: 100%|██████████| 782/782 [02:08<00:00,  6.10it/s]
+Epoch 9/20 - Validation: 100%|██████████| 157/157 [00:07<00:00, 21.55it/s]
+Epoch 9/20, Training Loss: 0.9311, Training Accuracy: 67.50%, Validation Loss: 0.9194, Validation Accuracy: 68.35
+Epoch 10/20 - Training: 100%|██████████| 782/782 [02:08<00:00,  6.10it/s]
+Epoch 10/20 - Validation: 100%|██████████| 157/157 [00:07<00:00, 21.57it/s]
+Epoch 10/20, Training Loss: 0.8618, Training Accuracy: 70.30%, Validation Loss: 0.8649, Validation Accuracy: 70.69
+Epoch 11/20 - Training: 100%|██████████| 782/782 [02:08<00:00,  6.10it/s]
+Epoch 11/20 - Validation: 100%|██████████| 157/157 [00:07<00:00, 21.56it/s]
+Epoch 11/20, Training Loss: 0.8020, Training Accuracy: 72.21%, Validation Loss: 0.8242, Validation Accuracy: 71.75
+Epoch 12/20 - Training: 100%|██████████| 782/782 [02:10<00:00,  6.01it/s]
+Epoch 12/20 - Validation: 100%|██████████| 157/157 [00:07<00:00, 21.57it/s]
+Epoch 12/20, Training Loss: 0.7505, Training Accuracy: 74.32%, Validation Loss: 0.7880, Validation Accuracy: 73.15
+Epoch 13/20 - Training: 100%|██████████| 782/782 [02:09<00:00,  6.06it/s]
+Epoch 13/20 - Validation: 100%|██████████| 157/157 [00:07<00:00, 21.54it/s]
+Epoch 13/20, Training Loss: 0.7306, Training Accuracy: 74.90%, Validation Loss: 0.8422, Validation Accuracy: 71.50
+Epoch 14/20 - Training: 100%|██████████| 782/782 [02:17<00:00,  5.70it/s]
+Epoch 14/20 - Validation: 100%|██████████| 157/157 [00:07<00:00, 21.60it/s]
+Epoch 14/20, Training Loss: 0.6913, Training Accuracy: 76.32%, Validation Loss: 0.7129, Validation Accuracy: 75.95
+Epoch 15/20 - Training: 100%|██████████| 782/782 [02:09<00:00,  6.04it/s]
+Epoch 15/20 - Validation: 100%|██████████| 157/157 [00:07<00:00, 21.52it/s]
+Epoch 15/20, Training Loss: 0.6657, Training Accuracy: 77.03%, Validation Loss: 0.6613, Validation Accuracy: 77.47
+Epoch 16/20 - Training: 100%|██████████| 782/782 [02:11<00:00,  5.97it/s]
+Epoch 16/20 - Validation: 100%|██████████| 157/157 [00:07<00:00, 21.55it/s]
+Epoch 16/20 - Training: 100%|██████████| 782/782 [02:11<00:00,  5.97it/s]
+Epoch 16/20 - Validation: 100%|██████████| 157/157 [00:07<00:00, 21.55it/s]
+Epoch 16/20, Training Loss: 0.6695, Training Accuracy: 77.16%, Validation Loss: 0.8264, Validation Accuracy: 72.08
+Epoch 17/20 - Training: 100%|██████████| 782/782 [02:08<00:00,  6.10it/s]
+Epoch 17/20 - Validation: 100%|██████████| 157/157 [00:07<00:00, 21.56it/s]
+Epoch 17/20, Training Loss: 0.7333, Training Accuracy: 74.62%, Validation Loss: 0.6340, Validation Accuracy: 78.24
+Epoch 18/20 - Training: 100%|██████████| 782/782 [02:08<00:00,  6.09it/s]
+Epoch 18/20 - Validation: 100%|██████████| 157/157 [00:07<00:00, 21.53it/s]
+Epoch 18/20, Training Loss: 0.5935, Training Accuracy: 79.56%, Validation Loss: 0.6466, Validation Accuracy: 78.17
+Epoch 19/20 - Training: 100%|██████████| 782/782 [02:10<00:00,  6.00it/s]
+Epoch 19/20 - Validation: 100%|██████████| 157/157 [00:07<00:00, 21.51it/s]
+Epoch 19/20, Training Loss: 0.5628, Training Accuracy: 80.58%, Validation Loss: 0.6100, Validation Accuracy: 78.99 !!!
+Epoch 20/20 - Training: 100%|██████████| 782/782 [02:08<00:00,  6.09it/s]
+Epoch 20/20 - Validation: 100%|██████████| 157/157 [00:07<00:00, 21.54it/s]
+Epoch 20/20, Training Loss: 0.5503, Training Accuracy: 81.11%, Validation Loss: 0.6894, Validation Accuracy: 77.52
